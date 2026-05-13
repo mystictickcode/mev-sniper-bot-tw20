@@ -1,4 +1,4 @@
-# 
+# MEV-optimized Bot for MEV sniper bot | new-token-detection & contract-verification is the best MEV sniper bot, featuring new-token-detection and contract-verification. Fast,
 
 
 
